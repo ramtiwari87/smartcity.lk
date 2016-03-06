@@ -29,6 +29,8 @@ $test_array['1']['1']['Address']='New Delhi2';
 $test_array['1']['1']['MObile']='8';
 $test_array['1']['1']['Profile']='web1';*/
 
+echo "test";
+
 for($i=0;$i<count($test_array['state_wise']);$i++){
 	$state_data=0;
 	$state_name='';
